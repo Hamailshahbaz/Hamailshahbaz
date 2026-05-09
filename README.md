@@ -13,7 +13,7 @@
 
 ## 📫 Contact
 
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/hamail-s-7351a9196/)]
+* **LinkedIn:** https://www.linkedin.com/in/hamail-s-7351a9196/
 * **Email:** shahbazhamail@gmail.com
 
 <!--
